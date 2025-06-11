@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.choperzil.util</groupId>
+    <artifactId>mathutil</artifactId>
+    <version>67.89</version>
+
+    <properties>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+<!-- đây là nơi khai báo các thư viện cần dùng
+     nhưng khai báo theo cú pháp nào?
+     làm sao để tải thư viện về - .JAR, add project để dùng
+     CÓ 1 TOOL CÀI ĐC CÀI THEO NETBEANS, ECLIPSE, TÊN LÀ MAVEN
+     GIÚP TA KHAI BÁO, TẢI VỀ, ADD VÀO PROJECT, THẬM CHÍ CÒN GIÚP BUILD APP
+     VÀ ĐÓNG GÓI APP THÀNH .JAR .WAR
+     BÊN NODE.JS/REACT, ĐÓ LÀ TOOL NPM
+     BÊN C# ĐÓ LÀ TOOL: NUGET
+     BÊN JAVA TOOL MAVEN: MVN
+
+     -->
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.13.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+</project>
