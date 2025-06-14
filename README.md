@@ -7,6 +7,15 @@
 * A CI (Continuous Intergation) script to demonstrate CI technique using GitHub Actions
 *...
 
+## Screenshots
+
+### TTD, DDT test script with JUnit
+![TDD, DTT with JUnit](https://github.com/Choperzil/mathutil/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
+
+### Maven buidlder to build .jar file
+![Maven builder](https://github.com/Choperzil/mathutil/blob/main/screenshots/Maven%20Builder.png)
+
+
 ### Connect me via: chopperzil2005@gmail.com
 
 #### &#169; 2025 choperzil
