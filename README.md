@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2025 by choperzil](https://github.com/Choperzil/mathutil/actions/workflows/ci-runner.yml/badge.svg)](https://github.com/Choperzil/mathutil/actions/workflows/ci-runner.yml)
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
